@@ -3,7 +3,7 @@ import { PageManager } from '../page_objects/pageManager';
 
 
 
-test.describe('Valid Login', () => {
+test.describe('Login', () => {
 
     //test.describe.configure({retries: 2})
 
